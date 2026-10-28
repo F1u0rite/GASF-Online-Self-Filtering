@@ -1,0 +1,28 @@
+# ROS 2 / colcon
+/build/
+/install/
+/log/
+
+# ROS bags
+*.db3
+*.mcap
+*.bag
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Sensitive files
+.env
+*.pem
+*.key
+
+# OS
+.DS_Store
+Thumbs.db

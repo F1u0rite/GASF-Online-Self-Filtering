@@ -1,0 +1,749 @@
+{
+  "A": {
+    "bag": "/home/aims-fluorite/cage_bags/04_loop_A",
+    "processed_frames": 60,
+    "lidar_messages_traversed": 1181,
+    "near_field_points_processed": 56839,
+    "candidate_hits": 4861,
+    "candidate_hit_fraction": 0.08552226464223509,
+    "voxel_size_m": 0.05999999865889549,
+    "candidate_voxels": 62,
+    "per_frame_hit_fraction": [
+      {
+        "sample_frame": 1,
+        "near_points": 688,
+        "candidate_hits": 90,
+        "hit_fraction": 0.1308139534883721
+      },
+      {
+        "sample_frame": 2,
+        "near_points": 781,
+        "candidate_hits": 92,
+        "hit_fraction": 0.117797695262484
+      },
+      {
+        "sample_frame": 3,
+        "near_points": 735,
+        "candidate_hits": 88,
+        "hit_fraction": 0.11972789115646258
+      },
+      {
+        "sample_frame": 4,
+        "near_points": 691,
+        "candidate_hits": 77,
+        "hit_fraction": 0.11143270622286541
+      },
+      {
+        "sample_frame": 5,
+        "near_points": 731,
+        "candidate_hits": 87,
+        "hit_fraction": 0.11901504787961696
+      },
+      {
+        "sample_frame": 6,
+        "near_points": 677,
+        "candidate_hits": 88,
+        "hit_fraction": 0.12998522895125553
+      },
+      {
+        "sample_frame": 7,
+        "near_points": 697,
+        "candidate_hits": 87,
+        "hit_fraction": 0.12482065997130559
+      },
+      {
+        "sample_frame": 8,
+        "near_points": 781,
+        "candidate_hits": 82,
+        "hit_fraction": 0.10499359795134443
+      },
+      {
+        "sample_frame": 9,
+        "near_points": 1035,
+        "candidate_hits": 79,
+        "hit_fraction": 0.07632850241545894
+      },
+      {
+        "sample_frame": 10,
+        "near_points": 1003,
+        "candidate_hits": 83,
+        "hit_fraction": 0.08275174476570289
+      },
+      {
+        "sample_frame": 11,
+        "near_points": 933,
+        "candidate_hits": 84,
+        "hit_fraction": 0.09003215434083602
+      },
+      {
+        "sample_frame": 12,
+        "near_points": 825,
+        "candidate_hits": 86,
+        "hit_fraction": 0.10424242424242425
+      },
+      {
+        "sample_frame": 13,
+        "near_points": 911,
+        "candidate_hits": 77,
+        "hit_fraction": 0.0845225027442371
+      },
+      {
+        "sample_frame": 14,
+        "near_points": 926,
+        "candidate_hits": 85,
+        "hit_fraction": 0.091792656587473
+      },
+      {
+        "sample_frame": 15,
+        "near_points": 1036,
+        "candidate_hits": 86,
+        "hit_fraction": 0.08301158301158301
+      },
+      {
+        "sample_frame": 16,
+        "near_points": 980,
+        "candidate_hits": 79,
+        "hit_fraction": 0.08061224489795918
+      },
+      {
+        "sample_frame": 17,
+        "near_points": 1004,
+        "candidate_hits": 64,
+        "hit_fraction": 0.06374501992031872
+      },
+      {
+        "sample_frame": 18,
+        "near_points": 1029,
+        "candidate_hits": 83,
+        "hit_fraction": 0.08066083576287658
+      },
+      {
+        "sample_frame": 19,
+        "near_points": 1109,
+        "candidate_hits": 96,
+        "hit_fraction": 0.08656447249774572
+      },
+      {
+        "sample_frame": 20,
+        "near_points": 1074,
+        "candidate_hits": 96,
+        "hit_fraction": 0.0893854748603352
+      },
+      {
+        "sample_frame": 21,
+        "near_points": 928,
+        "candidate_hits": 59,
+        "hit_fraction": 0.06357758620689655
+      },
+      {
+        "sample_frame": 22,
+        "near_points": 895,
+        "candidate_hits": 70,
+        "hit_fraction": 0.0782122905027933
+      },
+      {
+        "sample_frame": 23,
+        "near_points": 1283,
+        "candidate_hits": 72,
+        "hit_fraction": 0.05611847233047545
+      },
+      {
+        "sample_frame": 24,
+        "near_points": 1402,
+        "candidate_hits": 89,
+        "hit_fraction": 0.06348074179743224
+      },
+      {
+        "sample_frame": 25,
+        "near_points": 1271,
+        "candidate_hits": 73,
+        "hit_fraction": 0.057435090479937057
+      },
+      {
+        "sample_frame": 26,
+        "near_points": 1052,
+        "candidate_hits": 82,
+        "hit_fraction": 0.0779467680608365
+      },
+      {
+        "sample_frame": 27,
+        "near_points": 1080,
+        "candidate_hits": 86,
+        "hit_fraction": 0.07962962962962963
+      },
+      {
+        "sample_frame": 28,
+        "near_points": 1159,
+        "candidate_hits": 98,
+        "hit_fraction": 0.08455565142364108
+      },
+      {
+        "sample_frame": 29,
+        "near_points": 1182,
+        "candidate_hits": 72,
+        "hit_fraction": 0.06091370558375635
+      },
+      {
+        "sample_frame": 30,
+        "near_points": 1082,
+        "candidate_hits": 82,
+        "hit_fraction": 0.07578558225508318
+      },
+      {
+        "sample_frame": 31,
+        "near_points": 1287,
+        "candidate_hits": 75,
+        "hit_fraction": 0.05827505827505827
+      },
+      {
+        "sample_frame": 32,
+        "near_points": 1430,
+        "candidate_hits": 83,
+        "hit_fraction": 0.05804195804195804
+      },
+      {
+        "sample_frame": 33,
+        "near_points": 1018,
+        "candidate_hits": 95,
+        "hit_fraction": 0.09332023575638507
+      },
+      {
+        "sample_frame": 34,
+        "near_points": 899,
+        "candidate_hits": 72,
+        "hit_fraction": 0.08008898776418243
+      },
+      {
+        "sample_frame": 35,
+        "near_points": 847,
+        "candidate_hits": 84,
+        "hit_fraction": 0.09917355371900827
+      },
+      {
+        "sample_frame": 36,
+        "near_points": 889,
+        "candidate_hits": 92,
+        "hit_fraction": 0.10348706411698538
+      },
+      {
+        "sample_frame": 37,
+        "near_points": 831,
+        "candidate_hits": 90,
+        "hit_fraction": 0.10830324909747292
+      },
+      {
+        "sample_frame": 38,
+        "near_points": 796,
+        "candidate_hits": 75,
+        "hit_fraction": 0.0942211055276382
+      },
+      {
+        "sample_frame": 39,
+        "near_points": 765,
+        "candidate_hits": 71,
+        "hit_fraction": 0.09281045751633987
+      },
+      {
+        "sample_frame": 40,
+        "near_points": 808,
+        "candidate_hits": 81,
+        "hit_fraction": 0.10024752475247525
+      },
+      {
+        "sample_frame": 41,
+        "near_points": 880,
+        "candidate_hits": 89,
+        "hit_fraction": 0.10113636363636364
+      },
+      {
+        "sample_frame": 42,
+        "near_points": 729,
+        "candidate_hits": 74,
+        "hit_fraction": 0.10150891632373114
+      },
+      {
+        "sample_frame": 43,
+        "near_points": 693,
+        "candidate_hits": 75,
+        "hit_fraction": 0.10822510822510822
+      },
+      {
+        "sample_frame": 44,
+        "near_points": 711,
+        "candidate_hits": 64,
+        "hit_fraction": 0.090014064697609
+      },
+      {
+        "sample_frame": 45,
+        "near_points": 857,
+        "candidate_hits": 97,
+        "hit_fraction": 0.11318553092182031
+      },
+      {
+        "sample_frame": 46,
+        "near_points": 837,
+        "candidate_hits": 80,
+        "hit_fraction": 0.0955794504181601
+      },
+      {
+        "sample_frame": 47,
+        "near_points": 789,
+        "candidate_hits": 64,
+        "hit_fraction": 0.08111533586818757
+      },
+      {
+        "sample_frame": 48,
+        "near_points": 828,
+        "candidate_hits": 69,
+        "hit_fraction": 0.08333333333333333
+      },
+      {
+        "sample_frame": 49,
+        "near_points": 914,
+        "candidate_hits": 83,
+        "hit_fraction": 0.09080962800875274
+      },
+      {
+        "sample_frame": 50,
+        "near_points": 938,
+        "candidate_hits": 92,
+        "hit_fraction": 0.09808102345415778
+      },
+      {
+        "sample_frame": 51,
+        "near_points": 789,
+        "candidate_hits": 71,
+        "hit_fraction": 0.08998732572877059
+      },
+      {
+        "sample_frame": 52,
+        "near_points": 766,
+        "candidate_hits": 81,
+        "hit_fraction": 0.10574412532637076
+      },
+      {
+        "sample_frame": 53,
+        "near_points": 895,
+        "candidate_hits": 78,
+        "hit_fraction": 0.08715083798882682
+      },
+      {
+        "sample_frame": 54,
+        "near_points": 1564,
+        "candidate_hits": 89,
+        "hit_fraction": 0.05690537084398977
+      },
+      {
+        "sample_frame": 55,
+        "near_points": 1225,
+        "candidate_hits": 81,
+        "hit_fraction": 0.06612244897959184
+      },
+      {
+        "sample_frame": 56,
+        "near_points": 861,
+        "candidate_hits": 81,
+        "hit_fraction": 0.09407665505226481
+      },
+      {
+        "sample_frame": 57,
+        "near_points": 952,
+        "candidate_hits": 90,
+        "hit_fraction": 0.09453781512605042
+      },
+      {
+        "sample_frame": 58,
+        "near_points": 1172,
+        "candidate_hits": 89,
+        "hit_fraction": 0.07593856655290103
+      },
+      {
+        "sample_frame": 59,
+        "near_points": 957,
+        "candidate_hits": 64,
+        "hit_fraction": 0.06687565308254964
+      },
+      {
+        "sample_frame": 60,
+        "near_points": 932,
+        "candidate_hits": 60,
+        "hit_fraction": 0.06437768240343347
+      }
+    ],
+    "warning": "Candidate-mask hit fraction, not self-filter precision/recall; no ground-truth labels.",
+    "mechanical_note": "LiDAR moved a few mm relative to the cage during 04_loop_A; treat as disturbed case."
+  },
+  "B": {
+    "bag": "/home/aims-fluorite/cage_bags/07_loop_B",
+    "processed_frames": 60,
+    "lidar_messages_traversed": 1181,
+    "near_field_points_processed": 87918,
+    "candidate_hits": 25478,
+    "candidate_hit_fraction": 0.2897927614367934,
+    "voxel_size_m": 0.05999999865889549,
+    "candidate_voxels": 119,
+    "per_frame_hit_fraction": [
+      {
+        "sample_frame": 1,
+        "near_points": 991,
+        "candidate_hits": 393,
+        "hit_fraction": 0.39656912209889
+      },
+      {
+        "sample_frame": 2,
+        "near_points": 1082,
+        "candidate_hits": 418,
+        "hit_fraction": 0.38632162661737524
+      },
+      {
+        "sample_frame": 3,
+        "near_points": 1194,
+        "candidate_hits": 429,
+        "hit_fraction": 0.3592964824120603
+      },
+      {
+        "sample_frame": 4,
+        "near_points": 1163,
+        "candidate_hits": 416,
+        "hit_fraction": 0.3576956147893379
+      },
+      {
+        "sample_frame": 5,
+        "near_points": 1148,
+        "candidate_hits": 404,
+        "hit_fraction": 0.3519163763066202
+      },
+      {
+        "sample_frame": 6,
+        "near_points": 1279,
+        "candidate_hits": 448,
+        "hit_fraction": 0.3502736512900704
+      },
+      {
+        "sample_frame": 7,
+        "near_points": 1305,
+        "candidate_hits": 428,
+        "hit_fraction": 0.32796934865900385
+      },
+      {
+        "sample_frame": 8,
+        "near_points": 1346,
+        "candidate_hits": 434,
+        "hit_fraction": 0.3224368499257058
+      },
+      {
+        "sample_frame": 9,
+        "near_points": 1273,
+        "candidate_hits": 413,
+        "hit_fraction": 0.3244304791830322
+      },
+      {
+        "sample_frame": 10,
+        "near_points": 1317,
+        "candidate_hits": 413,
+        "hit_fraction": 0.31359149582384205
+      },
+      {
+        "sample_frame": 11,
+        "near_points": 1346,
+        "candidate_hits": 436,
+        "hit_fraction": 0.32392273402674593
+      },
+      {
+        "sample_frame": 12,
+        "near_points": 1304,
+        "candidate_hits": 442,
+        "hit_fraction": 0.3389570552147239
+      },
+      {
+        "sample_frame": 13,
+        "near_points": 1413,
+        "candidate_hits": 414,
+        "hit_fraction": 0.2929936305732484
+      },
+      {
+        "sample_frame": 14,
+        "near_points": 1782,
+        "candidate_hits": 424,
+        "hit_fraction": 0.23793490460157127
+      },
+      {
+        "sample_frame": 15,
+        "near_points": 2100,
+        "candidate_hits": 443,
+        "hit_fraction": 0.21095238095238095
+      },
+      {
+        "sample_frame": 16,
+        "near_points": 1938,
+        "candidate_hits": 419,
+        "hit_fraction": 0.21620227038183695
+      },
+      {
+        "sample_frame": 17,
+        "near_points": 1920,
+        "candidate_hits": 381,
+        "hit_fraction": 0.1984375
+      },
+      {
+        "sample_frame": 18,
+        "near_points": 1840,
+        "candidate_hits": 428,
+        "hit_fraction": 0.2326086956521739
+      },
+      {
+        "sample_frame": 19,
+        "near_points": 2144,
+        "candidate_hits": 457,
+        "hit_fraction": 0.21315298507462688
+      },
+      {
+        "sample_frame": 20,
+        "near_points": 1696,
+        "candidate_hits": 440,
+        "hit_fraction": 0.25943396226415094
+      },
+      {
+        "sample_frame": 21,
+        "near_points": 1236,
+        "candidate_hits": 403,
+        "hit_fraction": 0.32605177993527507
+      },
+      {
+        "sample_frame": 22,
+        "near_points": 1228,
+        "candidate_hits": 414,
+        "hit_fraction": 0.33713355048859933
+      },
+      {
+        "sample_frame": 23,
+        "near_points": 1370,
+        "candidate_hits": 417,
+        "hit_fraction": 0.3043795620437956
+      },
+      {
+        "sample_frame": 24,
+        "near_points": 1509,
+        "candidate_hits": 421,
+        "hit_fraction": 0.27899271040424123
+      },
+      {
+        "sample_frame": 25,
+        "near_points": 1578,
+        "candidate_hits": 417,
+        "hit_fraction": 0.26425855513307983
+      },
+      {
+        "sample_frame": 26,
+        "near_points": 1296,
+        "candidate_hits": 426,
+        "hit_fraction": 0.3287037037037037
+      },
+      {
+        "sample_frame": 27,
+        "near_points": 1220,
+        "candidate_hits": 422,
+        "hit_fraction": 0.34590163934426227
+      },
+      {
+        "sample_frame": 28,
+        "near_points": 1300,
+        "candidate_hits": 457,
+        "hit_fraction": 0.3515384615384615
+      },
+      {
+        "sample_frame": 29,
+        "near_points": 1247,
+        "candidate_hits": 423,
+        "hit_fraction": 0.3392141138732959
+      },
+      {
+        "sample_frame": 30,
+        "near_points": 1062,
+        "candidate_hits": 410,
+        "hit_fraction": 0.3860640301318267
+      },
+      {
+        "sample_frame": 31,
+        "near_points": 1076,
+        "candidate_hits": 383,
+        "hit_fraction": 0.3559479553903346
+      },
+      {
+        "sample_frame": 32,
+        "near_points": 1292,
+        "candidate_hits": 406,
+        "hit_fraction": 0.3142414860681115
+      },
+      {
+        "sample_frame": 33,
+        "near_points": 1411,
+        "candidate_hits": 436,
+        "hit_fraction": 0.30900070871722185
+      },
+      {
+        "sample_frame": 34,
+        "near_points": 1308,
+        "candidate_hits": 416,
+        "hit_fraction": 0.3180428134556575
+      },
+      {
+        "sample_frame": 35,
+        "near_points": 1170,
+        "candidate_hits": 410,
+        "hit_fraction": 0.3504273504273504
+      },
+      {
+        "sample_frame": 36,
+        "near_points": 1153,
+        "candidate_hits": 409,
+        "hit_fraction": 0.3547267996530789
+      },
+      {
+        "sample_frame": 37,
+        "near_points": 1450,
+        "candidate_hits": 451,
+        "hit_fraction": 0.31103448275862067
+      },
+      {
+        "sample_frame": 38,
+        "near_points": 1405,
+        "candidate_hits": 458,
+        "hit_fraction": 0.32597864768683277
+      },
+      {
+        "sample_frame": 39,
+        "near_points": 1356,
+        "candidate_hits": 432,
+        "hit_fraction": 0.3185840707964602
+      },
+      {
+        "sample_frame": 40,
+        "near_points": 1378,
+        "candidate_hits": 417,
+        "hit_fraction": 0.3026124818577649
+      },
+      {
+        "sample_frame": 41,
+        "near_points": 1413,
+        "candidate_hits": 447,
+        "hit_fraction": 0.31634819532908703
+      },
+      {
+        "sample_frame": 42,
+        "near_points": 1549,
+        "candidate_hits": 454,
+        "hit_fraction": 0.29309231762427373
+      },
+      {
+        "sample_frame": 43,
+        "near_points": 1835,
+        "candidate_hits": 415,
+        "hit_fraction": 0.22615803814713897
+      },
+      {
+        "sample_frame": 44,
+        "near_points": 1911,
+        "candidate_hits": 447,
+        "hit_fraction": 0.23390894819466249
+      },
+      {
+        "sample_frame": 45,
+        "near_points": 2211,
+        "candidate_hits": 434,
+        "hit_fraction": 0.19629127091813658
+      },
+      {
+        "sample_frame": 46,
+        "near_points": 1942,
+        "candidate_hits": 421,
+        "hit_fraction": 0.21678681771369723
+      },
+      {
+        "sample_frame": 47,
+        "near_points": 1779,
+        "candidate_hits": 403,
+        "hit_fraction": 0.2265317594154019
+      },
+      {
+        "sample_frame": 48,
+        "near_points": 1995,
+        "candidate_hits": 423,
+        "hit_fraction": 0.21203007518796993
+      },
+      {
+        "sample_frame": 49,
+        "near_points": 2069,
+        "candidate_hits": 445,
+        "hit_fraction": 0.2150797486708555
+      },
+      {
+        "sample_frame": 50,
+        "near_points": 2375,
+        "candidate_hits": 442,
+        "hit_fraction": 0.18610526315789475
+      },
+      {
+        "sample_frame": 51,
+        "near_points": 2057,
+        "candidate_hits": 431,
+        "hit_fraction": 0.20952843947496355
+      },
+      {
+        "sample_frame": 52,
+        "near_points": 1325,
+        "candidate_hits": 430,
+        "hit_fraction": 0.32452830188679244
+      },
+      {
+        "sample_frame": 53,
+        "near_points": 1363,
+        "candidate_hits": 410,
+        "hit_fraction": 0.3008070432868672
+      },
+      {
+        "sample_frame": 54,
+        "near_points": 1372,
+        "candidate_hits": 439,
+        "hit_fraction": 0.31997084548104954
+      },
+      {
+        "sample_frame": 55,
+        "near_points": 1337,
+        "candidate_hits": 440,
+        "hit_fraction": 0.32909498878085264
+      },
+      {
+        "sample_frame": 56,
+        "near_points": 1221,
+        "candidate_hits": 401,
+        "hit_fraction": 0.3284193284193284
+      },
+      {
+        "sample_frame": 57,
+        "near_points": 1210,
+        "candidate_hits": 404,
+        "hit_fraction": 0.3338842975206612
+      },
+      {
+        "sample_frame": 58,
+        "near_points": 1207,
+        "candidate_hits": 438,
+        "hit_fraction": 0.3628831814415907
+      },
+      {
+        "sample_frame": 59,
+        "near_points": 1397,
+        "candidate_hits": 433,
+        "hit_fraction": 0.30994989262705797
+      },
+      {
+        "sample_frame": 60,
+        "near_points": 724,
+        "candidate_hits": 413,
+        "hit_fraction": 0.5704419889502762
+      }
+    ],
+    "warning": "Candidate-mask hit fraction, not self-filter precision/recall; no ground-truth labels."
+  }
+}

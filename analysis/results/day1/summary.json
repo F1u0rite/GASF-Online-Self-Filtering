@@ -1,0 +1,87 @@
+{
+  "configuration": {
+    "bags_root": "/home/aims-fluorite/cage_bags",
+    "out": "/home/aims-fluorite/cage_filter_ws/analysis/results/day1",
+    "voxel": 0.06,
+    "r_min": 0.12,
+    "r_max": 1.2,
+    "candidate_radius": 0.9,
+    "stride": 10,
+    "max_frames": 120,
+    "plot_limit": 15000,
+    "static_threshold": 0.12,
+    "arc_threshold": 0.04,
+    "baseline_delta": 0.08
+  },
+  "datasets": {
+    "no_cage": {
+      "name": "01_static",
+      "path": "/home/aims-fluorite/cage_bags/01_static",
+      "frames": 67,
+      "scanned_lidar_messages": 661,
+      "raw_points": 1339584,
+      "near_points": 19905,
+      "near_frac": 0.014859090583345277,
+      "timebase_start": 1793022822117265628,
+      "timebase_end": 1793022888117231076,
+      "occupied_voxels": 94,
+      "sample_reflectivity_median": 1.0
+    },
+    "static_A": {
+      "name": "02_static_A",
+      "path": "/home/aims-fluorite/cage_bags/02_static_A",
+      "frames": 66,
+      "scanned_lidar_messages": 656,
+      "raw_points": 1320096,
+      "near_points": 25524,
+      "near_frac": 0.019334957457639444,
+      "timebase_start": 1793023211116198227,
+      "timebase_end": 1793023276117276891,
+      "occupied_voxels": 199,
+      "sample_reflectivity_median": 1.0
+    },
+    "arc_A": {
+      "name": "03_arc_A",
+      "path": "/home/aims-fluorite/cage_bags/03_arc_A",
+      "frames": 120,
+      "scanned_lidar_messages": 1191,
+      "raw_points": 2401248,
+      "near_points": 93485,
+      "near_frac": 0.03893183877716921,
+      "timebase_start": 1793023316116891982,
+      "timebase_end": 1793023435116457501,
+      "occupied_voxels": 1238,
+      "sample_reflectivity_median": 3.0
+    },
+    "static_B": {
+      "name": "05_static_B",
+      "path": "/home/aims-fluorite/cage_bags/05_static_B",
+      "frames": 73,
+      "scanned_lidar_messages": 725,
+      "raw_points": 1458720,
+      "near_points": 52260,
+      "near_frac": 0.035825929582099375,
+      "timebase_start": 1793023929916478381,
+      "timebase_end": 1793024001916881938,
+      "occupied_voxels": 248,
+      "sample_reflectivity_median": 1.0
+    },
+    "arc_B": {
+      "name": "06_arc_B",
+      "path": "/home/aims-fluorite/cage_bags/06_arc_B",
+      "frames": 120,
+      "scanned_lidar_messages": 1191,
+      "raw_points": 2400480,
+      "near_points": 142169,
+      "near_frac": 0.0592252382856762,
+      "timebase_start": 1793024040416859191,
+      "timebase_end": 1793024159417115455,
+      "occupied_voxels": 1241,
+      "sample_reflectivity_median": 2.0
+    }
+  },
+  "candidate_voxels": {
+    "A": 62,
+    "B": 119
+  }
+}

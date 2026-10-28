@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>gasf_filter</name>
+  <version>0.1.0</version>
+  <description>GASF V1: LiDAR-only online body-frame self-return candidate filtering for Livox CustomMsg.</description>
+  <maintainer email="maintainer@example.com">Project Maintainer</maintainer>
+  <license>Apache-2.0</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclcpp</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>livox_ros_driver2</depend>
+  <export><build_type>ament_cmake</build_type></export>
+</package>

@@ -1,0 +1,17 @@
+gasf_filter_node:
+  ros__parameters:
+    mode: online
+    input_topic: /livox/lidar
+    imu_topic: /livox/imu
+    voxel_size: 0.06
+    min_range: 0.12
+    max_range: 0.45
+    min_hits: 8
+    min_orientations: 3
+    orientation_step_deg: 6.0
+    gyro_deadband_rad_s: 0.015
+    stale_frames: 250
+    snapshot_every_frames: 5
+    max_learning_queue: 5
+    publish_visuals: true
+    publish_filtered_custom: false

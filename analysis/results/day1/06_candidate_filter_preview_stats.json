@@ -1,0 +1,22 @@
+{
+  "A": {
+    "cage": "A",
+    "input_near_field_sample_points": 15000,
+    "candidate_voxels": 62,
+    "matched_candidate_points": 1646,
+    "retained_points": 13354,
+    "matched_fraction_of_near_field_sample": 0.10973333333333334,
+    "voxel_size_m": 0.05999999865889549,
+    "note": "Diagnostic only; not true-positive removal rate; no evaluation of environment false positives"
+  },
+  "B": {
+    "cage": "B",
+    "input_near_field_sample_points": 15000,
+    "candidate_voxels": 119,
+    "matched_candidate_points": 5236,
+    "retained_points": 9764,
+    "matched_fraction_of_near_field_sample": 0.3490666666666667,
+    "voxel_size_m": 0.05999999865889549,
+    "note": "Diagnostic only; not true-positive removal rate; no evaluation of environment false positives"
+  }
+}

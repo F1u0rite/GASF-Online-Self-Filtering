@@ -1,0 +1,128 @@
+mode=online frame=10 raw=19776 candidate_hits=0 mask_voxels=0 callback_ms=1.879 learning_frames=10 orientation_bins=1 candidate_voxels=65 dropped_learning_batches=0
+---
+mode=online frame=20 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.473 learning_frames=20 orientation_bins=1 candidate_voxels=70 dropped_learning_batches=0
+---
+mode=online frame=30 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=2.867 learning_frames=30 orientation_bins=1 candidate_voxels=71 dropped_learning_batches=0
+---
+mode=online frame=40 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=1.634 learning_frames=40 orientation_bins=1 candidate_voxels=72 dropped_learning_batches=0
+---
+mode=online frame=50 raw=19872 candidate_hits=0 mask_voxels=0 callback_ms=1.312 learning_frames=50 orientation_bins=1 candidate_voxels=72 dropped_learning_batches=0
+---
+mode=online frame=60 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.239 learning_frames=60 orientation_bins=1 candidate_voxels=74 dropped_learning_batches=0
+---
+mode=online frame=70 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.755 learning_frames=70 orientation_bins=1 candidate_voxels=74 dropped_learning_batches=0
+---
+mode=online frame=80 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.561 learning_frames=80 orientation_bins=1 candidate_voxels=74 dropped_learning_batches=0
+---
+mode=online frame=90 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=1.828 learning_frames=90 orientation_bins=1 candidate_voxels=75 dropped_learning_batches=0
+---
+mode=online frame=100 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=0.659 learning_frames=100 orientation_bins=1 candidate_voxels=75 dropped_learning_batches=0
+---
+mode=online frame=110 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=0.394 learning_frames=110 orientation_bins=1 candidate_voxels=75 dropped_learning_batches=0
+---
+mode=online frame=120 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=0.222 learning_frames=119 orientation_bins=1 candidate_voxels=75 dropped_learning_batches=0
+---
+mode=online frame=130 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=0.451 learning_frames=130 orientation_bins=1 candidate_voxels=75 dropped_learning_batches=0
+---
+mode=online frame=140 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=0.964 learning_frames=140 orientation_bins=1 candidate_voxels=75 dropped_learning_batches=0
+---
+mode=online frame=150 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=0.976 learning_frames=150 orientation_bins=1 candidate_voxels=75 dropped_learning_batches=0
+---
+mode=online frame=160 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=0.675 learning_frames=159 orientation_bins=1 candidate_voxels=75 dropped_learning_batches=0
+---
+mode=online frame=170 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.994 learning_frames=170 orientation_bins=1 candidate_voxels=75 dropped_learning_batches=0
+---
+mode=online frame=180 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.233 learning_frames=180 orientation_bins=1 candidate_voxels=76 dropped_learning_batches=0
+---
+mode=online frame=190 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.757 learning_frames=190 orientation_bins=1 candidate_voxels=76 dropped_learning_batches=0
+---
+mode=online frame=200 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.711 learning_frames=200 orientation_bins=1 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=210 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=3.096 learning_frames=210 orientation_bins=1 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=220 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.077 learning_frames=220 orientation_bins=1 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=230 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.456 learning_frames=229 orientation_bins=1 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=240 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=2.222 learning_frames=239 orientation_bins=1 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=250 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.650 learning_frames=250 orientation_bins=1 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=260 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=2.210 learning_frames=260 orientation_bins=1 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=270 raw=19872 candidate_hits=0 mask_voxels=0 callback_ms=1.857 learning_frames=270 orientation_bins=1 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=280 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.334 learning_frames=280 orientation_bins=1 candidate_voxels=76 dropped_learning_batches=0
+---
+mode=online frame=290 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=2.227 learning_frames=290 orientation_bins=1 candidate_voxels=76 dropped_learning_batches=0
+---
+mode=online frame=300 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=1.635 learning_frames=300 orientation_bins=1 candidate_voxels=75 dropped_learning_batches=0
+---
+mode=online frame=310 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.543 learning_frames=310 orientation_bins=1 candidate_voxels=76 dropped_learning_batches=0
+---
+mode=online frame=320 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.173 learning_frames=319 orientation_bins=1 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=330 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.175 learning_frames=329 orientation_bins=1 candidate_voxels=76 dropped_learning_batches=0
+---
+mode=online frame=340 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.459 learning_frames=339 orientation_bins=2 candidate_voxels=76 dropped_learning_batches=0
+---
+mode=online frame=350 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=1.875 learning_frames=350 orientation_bins=2 candidate_voxels=76 dropped_learning_batches=0
+---
+mode=online frame=360 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=2.173 learning_frames=360 orientation_bins=2 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=370 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.658 learning_frames=370 orientation_bins=2 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=380 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.212 learning_frames=380 orientation_bins=2 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=390 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.185 learning_frames=390 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=400 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.106 learning_frames=400 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=410 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.189 learning_frames=410 orientation_bins=2 candidate_voxels=79 dropped_learning_batches=0
+---
+mode=online frame=420 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.209 learning_frames=420 orientation_bins=2 candidate_voxels=79 dropped_learning_batches=0
+---
+mode=online frame=430 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.205 learning_frames=430 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=440 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.423 learning_frames=440 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=450 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=1.589 learning_frames=450 orientation_bins=2 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=460 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.663 learning_frames=460 orientation_bins=2 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=470 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.150 learning_frames=470 orientation_bins=2 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=480 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=2.092 learning_frames=480 orientation_bins=2 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=490 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.474 learning_frames=490 orientation_bins=2 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=500 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.112 learning_frames=499 orientation_bins=2 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=510 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.109 learning_frames=510 orientation_bins=2 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=520 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.106 learning_frames=520 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=530 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=2.125 learning_frames=530 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=540 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.590 learning_frames=540 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=550 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.067 learning_frames=550 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=560 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.838 learning_frames=560 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=570 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=1.625 learning_frames=570 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=580 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.149 learning_frames=580 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=590 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=2.208 learning_frames=590 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=600 raw=19872 candidate_hits=0 mask_voxels=0 callback_ms=1.870 learning_frames=600 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=610 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=3.046 learning_frames=610 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=620 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=1.594 learning_frames=620 orientation_bins=2 candidate_voxels=78 dropped_learning_batches=0
+---
+mode=online frame=630 raw=19968 candidate_hits=0 mask_voxels=0 callback_ms=2.368 learning_frames=630 orientation_bins=2 candidate_voxels=77 dropped_learning_batches=0
+---
+mode=online frame=640 raw=20064 candidate_hits=0 mask_voxels=0 callback_ms=2.194 learning_frames=640 orientation_bins=2 candidate_voxels=77 dropped_learning_batches=0
+---

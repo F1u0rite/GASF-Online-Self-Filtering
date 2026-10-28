@@ -1,0 +1,11 @@
+gasf_filter_node:
+  ros__parameters:
+    mode: frozen
+    input_topic: /livox/lidar
+    imu_topic: /livox/imu
+    voxel_size: 0.06
+    min_range: 0.12
+    max_range: 0.9
+    frozen_mask_path: /home/aims-fluorite/cage_filter_ws/analysis/results/day1/candidate_B.txt
+    publish_visuals: true
+    publish_filtered_custom: false
