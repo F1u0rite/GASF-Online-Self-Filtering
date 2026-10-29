@@ -1,0 +1,35 @@
+{
+  "renderer": "sharp (bundled librsvg)",
+  "results": [
+    {
+      "figure": "01_online_mask_convergence",
+      "status": "PASS",
+      "width": 1640,
+      "height": 1740
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "status": "PASS",
+      "width": 1640,
+      "height": 1440
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "status": "PASS",
+      "width": 1640,
+      "height": 1480
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "status": "PASS",
+      "width": 1640,
+      "height": 2120
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "status": "PASS",
+      "width": 1640,
+      "height": 1360
+    }
+  ]
+}

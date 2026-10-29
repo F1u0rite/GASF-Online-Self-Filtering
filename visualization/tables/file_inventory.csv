@@ -1,0 +1,8 @@
+source_file,group,bytes,sha256,encoding,total_lines,separator_lines,blank_lines,record_lines,unrecognized_lines,format,newline
+01_static.log,01_static,11054,705f06bca184f1027209356c9417708b4b696578044070b19e73a65424cc884b,ASCII (UTF-8 compatible),128,64,0,64,0,key=value telemetry,CRLF
+02_static_A.log,02_static_A,10943,c29bfb8f21862d2a34f487c23c9413a3d625984f1ce60df2def2535fc1ab3793,ASCII (UTF-8 compatible),126,63,0,63,0,key=value telemetry,CRLF
+03_arc_A.log,03_arc_A,31721,587f38420b6eef3e3396b69a96c7fe7bf7a9105af5105b213b7b6710911180f5,ASCII (UTF-8 compatible),354,177,0,177,0,key=value telemetry,CRLF
+04_loop_A.log,04_loop_A,31208,e31fbe8ab82e68b1cdd6930d07f7ff5a925d3b3cc6d6854fc307e82e6813abf5,ASCII (UTF-8 compatible),348,174,0,174,0,key=value telemetry,CRLF
+05_static_B.log,05_static_B,12335,eaf16946fbef7e9e0e5015038e82476377b02923ca937c394a2d1548ccb3ccec,ASCII (UTF-8 compatible),142,71,0,71,0,key=value telemetry,CRLF
+06_arc_B.log,06_arc_B,31721,7a0d531dd9ac5c475af95f18247913fc6463c2ac5402107280e99620465745f0,ASCII (UTF-8 compatible),354,177,0,177,0,key=value telemetry,CRLF
+07_loop_B.log,07_loop_B,21299,11625da191296322f18204d1e4f0bff82bdc7b010ae1775a2eb60fc1b9564c9c,ASCII (UTF-8 compatible),238,119,0,119,0,key=value telemetry,CRLF

@@ -1,0 +1,8 @@
+group,frame_interval,count
+01_static,10,63
+02_static_A,10,62
+03_arc_A,10,176
+04_loop_A,10,173
+05_static_B,10,70
+06_arc_B,10,176
+07_loop_B,10,118

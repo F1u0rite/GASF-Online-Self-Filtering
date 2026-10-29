@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "checks": [
+    "01_static: ratios, sample counts and independent quantile/mean/max checks PASS",
+    "02_static_A: ratios, sample counts and independent quantile/mean/max checks PASS",
+    "03_arc_A: ratios, sample counts and independent quantile/mean/max checks PASS",
+    "04_loop_A: ratios, sample counts and independent quantile/mean/max checks PASS",
+    "05_static_B: ratios, sample counts and independent quantile/mean/max checks PASS",
+    "06_arc_B: ratios, sample counts and independent quantile/mean/max checks PASS",
+    "07_loop_B: ratios, sample counts and independent quantile/mean/max checks PASS",
+    "01_online_mask_convergence: 300 DPI PNG, vector SVG, PDF structure + Poppler page decode/render PASS",
+    "02_mask_hit_ratio_comparison: 300 DPI PNG, vector SVG, PDF structure + Poppler page decode/render PASS",
+    "03_runtime_latency_distribution: 300 DPI PNG, vector SVG, PDF structure + Poppler page decode/render PASS",
+    "04_static_vs_dynamic_learning: 300 DPI PNG, vector SVG, PDF structure + Poppler page decode/render PASS",
+    "05_orientation_diversity_vs_mask_activation: 300 DPI PNG, vector SVG, PDF structure + Poppler page decode/render PASS",
+    "Original 17-file baseline: hashes unchanged PASS",
+    "Per-run input/source integrity PASS"
+  ],
+  "png_metadata": [
+    {
+      "figure": "01_online_mask_convergence",
+      "width_px": 2460,
+      "height_px": 2610,
+      "dpi_x": 299.9994,
+      "dpi_y": 299.9994
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "width_px": 2460,
+      "height_px": 2160,
+      "dpi_x": 299.9994,
+      "dpi_y": 299.9994
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "width_px": 2460,
+      "height_px": 2220,
+      "dpi_x": 299.9994,
+      "dpi_y": 299.9994
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "width_px": 2460,
+      "height_px": 3180,
+      "dpi_x": 299.9994,
+      "dpi_y": 299.9994
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "width_px": 2460,
+      "height_px": 2040,
+      "dpi_x": 299.9994,
+      "dpi_y": 299.9994
+    }
+  ],
+  "pdf_validation": "Poppler rendered all pages",
+  "svg_validation": "XML parsed; vector paths present; no embedded raster images",
+  "limitations": "Automatic checks do not replace visual inspection or scientific interpretation."
+}

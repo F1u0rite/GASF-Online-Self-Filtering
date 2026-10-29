@@ -1,0 +1,20 @@
+[1/5] Read-only input: C:\Users\Sunxiaosun\Desktop\GASF-Online-Self-Filtering\analysis\results\online_controls
+      group  records  frame_min  frame_max  diagnostics
+  01_static       64         10        640            0
+02_static_A       63         10        630            0
+   03_arc_A      177         10       1770            0
+  04_loop_A      174         10       1740            0
+05_static_B       71         10        710            0
+   06_arc_B      177         10       1770            0
+  07_loop_B      119         10       1190            0
+[2/5] 845 records; 0 diagnostic events.
+[3/5] Exploratory visualization.
+[4/5] Five publication figures, three formats each.
+  Figure: C:\Users\Sunxiaosun\Desktop\GASF-Online-Self-Filtering\visualization\figures\01_online_mask_convergence (.png, .svg, .pdf)
+  Figure: C:\Users\Sunxiaosun\Desktop\GASF-Online-Self-Filtering\visualization\figures\02_mask_hit_ratio_comparison (.png, .svg, .pdf)
+  Figure: C:\Users\Sunxiaosun\Desktop\GASF-Online-Self-Filtering\visualization\figures\03_runtime_latency_distribution (.png, .svg, .pdf)
+  Figure: C:\Users\Sunxiaosun\Desktop\GASF-Online-Self-Filtering\visualization\figures\04_static_vs_dynamic_learning (.png, .svg, .pdf)
+  Figure: C:\Users\Sunxiaosun\Desktop\GASF-Online-Self-Filtering\visualization\figures\05_orientation_diversity_vs_mask_activation (.png, .svg, .pdf)
+[5/5] Integrity PASS (17 files). Outputs: C:\Users\Sunxiaosun\Desktop\GASF-Online-Self-Filtering\visualization
+
+Failed to find real location of C:\Python314\python.exe

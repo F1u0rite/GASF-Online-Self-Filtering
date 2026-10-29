@@ -1,0 +1,8 @@
+group,n_mask_valid,n_positive_mask,last_zero_before_first_positive_frame,first_positive_sample_frame,bins_at_first_positive_sample,first_positive_hit_frame,final_mask,final_candidate,final_bins,first_bin_cap_sample_frame,trailing_equal_mask_samples,trailing_equal_mask_frame_span,scope
+01_static,64,0,NA,NA,NA,NA,0,77,2,NA,64,630,First positive LOGGED sample; equality of voxel counts is not convergence or mask identity
+02_static_A,63,0,NA,NA,NA,NA,0,185,2,NA,63,620,First positive LOGGED sample; equality of voxel counts is not convergence or mask identity
+03_arc_A,177,161,160,170,5,170,191,228,60,1730,4,30,First positive LOGGED sample; equality of voxel counts is not convergence or mask identity
+04_loop_A,174,161,130,140,4,140,235,267,60,690,1,0,First positive LOGGED sample; equality of voxel counts is not convergence or mask identity
+05_static_B,71,0,NA,NA,NA,NA,0,229,2,NA,71,700,First positive LOGGED sample; equality of voxel counts is not convergence or mask identity
+06_arc_B,177,161,160,170,3,170,241,286,60,1550,1,0,First positive LOGGED sample; equality of voxel counts is not convergence or mask identity
+07_loop_B,119,115,40,50,4,50,281,354,60,490,1,0,First positive LOGGED sample; equality of voxel counts is not convergence or mask identity

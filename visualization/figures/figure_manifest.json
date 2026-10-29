@@ -1,0 +1,36 @@
+{
+  "stems": [
+    "01_online_mask_convergence",
+    "02_mask_hit_ratio_comparison",
+    "03_runtime_latency_distribution",
+    "04_static_vs_dynamic_learning",
+    "05_orientation_diversity_vs_mask_activation"
+  ],
+  "formats": [
+    "png",
+    "svg",
+    "pdf"
+  ],
+  "png_dpi": 300,
+  "source_records": "../tables/parsed_records.csv",
+  "quantile_method": "linear",
+  "group_colors": {
+    "01_static": "#4D4D4D",
+    "02_static_A": "#0072B2",
+    "03_arc_A": "#009E73",
+    "04_loop_A": "#D55E00",
+    "05_static_B": "#CC79A7",
+    "06_arc_B": "#56B4E9",
+    "07_loop_B": "#E69F00"
+  },
+  "group_markers": {
+    "01_static": "o",
+    "02_static_A": "s",
+    "03_arc_A": "^",
+    "04_loop_A": "D",
+    "05_static_B": "v",
+    "06_arc_B": "P",
+    "07_loop_B": "X"
+  },
+  "n_logged_samples": 845
+}

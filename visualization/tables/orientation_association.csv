@@ -1,0 +1,15 @@
+group,target,n_pairs,unique_orientation_bins,spearman_rho,status,n_at_source_cap,method,scope
+01_static,mask_voxels,64,2,NA,undefined_constant_or_insufficient,0,Spearman: Pearson correlation of average tied ranks; no p-values,Autocorrelated time series; cap=60; asynchronous snapshots; no causal inference
+01_static,candidate_voxels,64,2,0.754309953795,descriptive_only,0,Spearman: Pearson correlation of average tied ranks; no p-values,Autocorrelated time series; cap=60; asynchronous snapshots; no causal inference
+02_static_A,mask_voxels,63,2,NA,undefined_constant_or_insufficient,0,Spearman: Pearson correlation of average tied ranks; no p-values,Autocorrelated time series; cap=60; asynchronous snapshots; no causal inference
+02_static_A,candidate_voxels,63,2,0.449610432314,descriptive_only,0,Spearman: Pearson correlation of average tied ranks; no p-values,Autocorrelated time series; cap=60; asynchronous snapshots; no causal inference
+03_arc_A,mask_voxels,177,48,0.40495989514,descriptive_only,5,Spearman: Pearson correlation of average tied ranks; no p-values,Autocorrelated time series; cap=60; asynchronous snapshots; no causal inference
+03_arc_A,candidate_voxels,177,48,0.283263841576,descriptive_only,5,Spearman: Pearson correlation of average tied ranks; no p-values,Autocorrelated time series; cap=60; asynchronous snapshots; no causal inference
+04_loop_A,mask_voxels,174,50,0.81630505929,descriptive_only,106,Spearman: Pearson correlation of average tied ranks; no p-values,Autocorrelated time series; cap=60; asynchronous snapshots; no causal inference
+04_loop_A,candidate_voxels,174,50,0.651617643727,descriptive_only,106,Spearman: Pearson correlation of average tied ranks; no p-values,Autocorrelated time series; cap=60; asynchronous snapshots; no causal inference
+05_static_B,mask_voxels,71,2,NA,undefined_constant_or_insufficient,0,Spearman: Pearson correlation of average tied ranks; no p-values,Autocorrelated time series; cap=60; asynchronous snapshots; no causal inference
+05_static_B,candidate_voxels,71,2,0.0743235150493,descriptive_only,0,Spearman: Pearson correlation of average tied ranks; no p-values,Autocorrelated time series; cap=60; asynchronous snapshots; no causal inference
+06_arc_B,mask_voxels,177,52,0.963515786871,descriptive_only,23,Spearman: Pearson correlation of average tied ranks; no p-values,Autocorrelated time series; cap=60; asynchronous snapshots; no causal inference
+06_arc_B,candidate_voxels,177,52,0.905270857699,descriptive_only,23,Spearman: Pearson correlation of average tied ranks; no p-values,Autocorrelated time series; cap=60; asynchronous snapshots; no causal inference
+07_loop_B,mask_voxels,119,34,0.888187575323,descriptive_only,71,Spearman: Pearson correlation of average tied ranks; no p-values,Autocorrelated time series; cap=60; asynchronous snapshots; no causal inference
+07_loop_B,candidate_voxels,119,34,0.578654456168,descriptive_only,71,Spearman: Pearson correlation of average tied ranks; no p-values,Autocorrelated time series; cap=60; asynchronous snapshots; no causal inference

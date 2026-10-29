@@ -1,0 +1,68 @@
+{
+  "status": "PASS",
+  "pages": [
+    {
+      "figure": "01_online_mask_state_evolution",
+      "png_px": [
+        4800,
+        2700
+      ],
+      "png_dpi": 300,
+      "svg": "vector XML PASS",
+      "pdf": "Poppler decoded and rendered"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "png_px": [
+        4800,
+        2700
+      ],
+      "png_dpi": 300,
+      "svg": "vector XML PASS",
+      "pdf": "Poppler decoded and rendered"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "png_px": [
+        4800,
+        2700
+      ],
+      "png_dpi": 300,
+      "svg": "vector XML PASS",
+      "pdf": "Poppler decoded and rendered"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "png_px": [
+        4800,
+        2700
+      ],
+      "png_dpi": 300,
+      "svg": "vector XML PASS",
+      "pdf": "Poppler decoded and rendered"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "png_px": [
+        4800,
+        2700
+      ],
+      "png_dpi": 300,
+      "svg": "vector XML PASS",
+      "pdf": "Poppler decoded and rendered"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "png_px": [
+        4800,
+        2700
+      ],
+      "png_dpi": 300,
+      "svg": "vector XML PASS",
+      "pdf": "Poppler decoded and rendered"
+    }
+  ],
+  "data_artist_checks": 93,
+  "each_page_represents_all_seven_runs": true,
+  "original_files_unchanged": 89
+}

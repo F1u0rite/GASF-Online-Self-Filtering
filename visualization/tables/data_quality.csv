@@ -1,0 +1,8 @@
+group,files,records,complete_records,eligible_records,frame_min,frame_max,interval_counts,non_10_intervals,duplicate_frame_records,missing_or_invalid_values,zero_raw,hits_exceed_raw,diagnostics,scope
+01_static,1,64,64,64,10,640,"{""10"": 63}",0,0,0,0,0,0,Recorded telemetry only; no independent trial replication
+02_static_A,1,63,63,63,10,630,"{""10"": 62}",0,0,0,0,0,0,Recorded telemetry only; no independent trial replication
+03_arc_A,1,177,177,177,10,1770,"{""10"": 176}",0,0,0,0,0,0,Recorded telemetry only; no independent trial replication
+04_loop_A,1,174,174,174,10,1740,"{""10"": 173}",0,0,0,0,0,0,Recorded telemetry only; no independent trial replication
+05_static_B,1,71,71,71,10,710,"{""10"": 70}",0,0,0,0,0,0,Recorded telemetry only; no independent trial replication
+06_arc_B,1,177,177,177,10,1770,"{""10"": 176}",0,0,0,0,0,0,Recorded telemetry only; no independent trial replication
+07_loop_B,1,119,119,119,10,1190,"{""10"": 118}",0,0,0,0,0,0,Recorded telemetry only; no independent trial replication

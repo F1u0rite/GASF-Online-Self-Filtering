@@ -1,0 +1,36 @@
+group,motion,cage,trajectory,metric,n_valid,mean,std,minimum,p25,p50,p75,p95,p99,maximum,first,final,final_metric_frame,experiment_note,scope
+01_static,Static,None,Static,learning_frames,64,324.875,186.22085369,10,167.25,324,482.5,608.5,633.7,640,10,640,640,No outer cage,Per experiment; unequal lengths; no pooled static/dynamic inference
+01_static,Static,None,Static,orientation_bins,64,1.484375,0.503706499953,1,1,1,2,2,2,2,1,2,640,No outer cage,Per experiment; unequal lengths; no pooled static/dynamic inference
+01_static,Static,None,Static,mask_voxels,64,0,0,0,0,0,0,0,0,0,0,0,640,No outer cage,Per experiment; unequal lengths; no pooled static/dynamic inference
+01_static,Static,None,Static,candidate_voxels,64,76.171875,2.29944567164,65,75,77,78,78,79,79,65,77,640,No outer cage,Per experiment; unequal lengths; no pooled static/dynamic inference
+01_static,Static,None,Static,dropped_learning_batches,64,0,0,0,0,0,0,0,0,0,0,0,640,No outer cage,Per experiment; unequal lengths; no pooled static/dynamic inference
+02_static_A,Static,A,Static,learning_frames,63,319.53968254,183.097702228,10,164,320,474.5,598,622.8,629,10,629,630,,Per experiment; unequal lengths; no pooled static/dynamic inference
+02_static_A,Static,A,Static,orientation_bins,63,1.50793650794,0.503952630679,1,1,2,2,2,2,2,1,2,630,,Per experiment; unequal lengths; no pooled static/dynamic inference
+02_static_A,Static,A,Static,mask_voxels,63,0,0,0,0,0,0,0,0,0,0,0,630,,Per experiment; unequal lengths; no pooled static/dynamic inference
+02_static_A,Static,A,Static,candidate_voxels,63,183.857142857,9.19301477957,143,182,185,190,192,192,192,143,185,630,,Per experiment; unequal lengths; no pooled static/dynamic inference
+02_static_A,Static,A,Static,dropped_learning_batches,63,0,0,0,0,0,0,0,0,0,0,0,630,,Per experiment; unequal lengths; no pooled static/dynamic inference
+03_arc_A,Dynamic,A,Arc,learning_frames,177,889.463276836,512.318948127,10,449,889,1329,1681.2,1751.4,1770,10,1770,1770,,Per experiment; unequal lengths; no pooled static/dynamic inference
+03_arc_A,Dynamic,A,Arc,orientation_bins,177,29.3220338983,17.7790485844,1,14,28,46,55,60,60,1,60,1770,,Per experiment; unequal lengths; no pooled static/dynamic inference
+03_arc_A,Dynamic,A,Arc,mask_voxels,177,170.271186441,55.7892230068,0,186,191,195,197,199,199,0,191,1770,,Per experiment; unequal lengths; no pooled static/dynamic inference
+03_arc_A,Dynamic,A,Arc,candidate_voxels,177,230.118644068,17.5052765543,156,223,230,237,262,264.48,266,156,228,1770,,Per experiment; unequal lengths; no pooled static/dynamic inference
+03_arc_A,Dynamic,A,Arc,dropped_learning_batches,177,0,0,0,0,0,0,0,0,0,0,0,1770,,Per experiment; unequal lengths; no pooled static/dynamic inference
+04_loop_A,Dynamic,A,Loop,learning_frames,174,874.310344828,503.726731366,10,441.5,874,1307.25,1653.15,1721.7,1739,10,1739,1740,Reported LiDAR/cage relative displacement,Per experiment; unequal lengths; no pooled static/dynamic inference
+04_loop_A,Dynamic,A,Loop,orientation_bins,174,47.1551724138,19.9775611617,1,39.25,60,60,60,60,60,1,60,1740,Reported LiDAR/cage relative displacement,Per experiment; unequal lengths; no pooled static/dynamic inference
+04_loop_A,Dynamic,A,Loop,mask_voxels,174,194.775862069,59.2163788964,0,194.25,211,231,236,238.27,240,0,235,1740,Reported LiDAR/cage relative displacement,Per experiment; unequal lengths; no pooled static/dynamic inference
+04_loop_A,Dynamic,A,Loop,candidate_voxels,174,249.390804598,25.557079411,148,240.25,250,269,280.35,283.27,284,148,267,1740,Reported LiDAR/cage relative displacement,Per experiment; unequal lengths; no pooled static/dynamic inference
+04_loop_A,Dynamic,A,Loop,dropped_learning_batches,174,0,0,0,0,0,0,0,0,0,0,0,1740,Reported LiDAR/cage relative displacement,Per experiment; unequal lengths; no pooled static/dynamic inference
+05_static_B,Static,B,Static,learning_frames,71,359.394366197,206.455701155,10,184,359,534,675,702.3,710,10,710,710,,Per experiment; unequal lengths; no pooled static/dynamic inference
+05_static_B,Static,B,Static,orientation_bins,71,1.42253521127,0.497478551755,1,1,1,2,2,2,2,1,2,710,,Per experiment; unequal lengths; no pooled static/dynamic inference
+05_static_B,Static,B,Static,mask_voxels,71,0,0,0,0,0,0,0,0,0,0,0,710,,Per experiment; unequal lengths; no pooled static/dynamic inference
+05_static_B,Static,B,Static,candidate_voxels,71,221.211267606,8.36474829774,179,221,223,225.5,228.5,229,229,179,229,710,,Per experiment; unequal lengths; no pooled static/dynamic inference
+05_static_B,Static,B,Static,dropped_learning_batches,71,0,0,0,0,0,0,0,0,0,0,0,710,,Per experiment; unequal lengths; no pooled static/dynamic inference
+06_arc_B,Dynamic,B,Arc,learning_frames,177,889.372881356,512.43891759,10,449,889,1330,1681.2,1751.4,1770,10,1770,1770,,Per experiment; unequal lengths; no pooled static/dynamic inference
+06_arc_B,Dynamic,B,Arc,orientation_bins,177,31.0225988701,20.2108079778,1,11,28,51,60,60,60,1,60,1770,,Per experiment; unequal lengths; no pooled static/dynamic inference
+06_arc_B,Dynamic,B,Arc,mask_voxels,177,211.706214689,68.592287002,0,221,235,244,248,249,249,0,241,1770,,Per experiment; unequal lengths; no pooled static/dynamic inference
+06_arc_B,Dynamic,B,Arc,candidate_voxels,177,275.847457627,20.8466916598,184,264,280,290,297,300,300,184,286,1770,,Per experiment; unequal lengths; no pooled static/dynamic inference
+06_arc_B,Dynamic,B,Arc,dropped_learning_batches,177,0,0,0,0,0,0,0,0,0,0,0,1770,,Per experiment; unequal lengths; no pooled static/dynamic inference
+07_loop_B,Dynamic,B,Loop,learning_frames,119,599.092436975,344.92703703,10,304,599,894,1130,1177.2,1189,10,1189,1190,,Per experiment; unequal lengths; no pooled static/dynamic inference
+07_loop_B,Dynamic,B,Loop,orientation_bins,119,48.4537815126,17.5420791431,1,39,60,60,60,60,60,1,60,1190,,Per experiment; unequal lengths; no pooled static/dynamic inference
+07_loop_B,Dynamic,B,Loop,mask_voxels,119,246.521008403,54.1264759832,0,246,264,275,280,281.82,282,0,281,1190,,Per experiment; unequal lengths; no pooled static/dynamic inference
+07_loop_B,Dynamic,B,Loop,candidate_voxels,119,323.890756303,36.5034918032,190,313.5,332,352.5,362.1,364.82,365,190,354,1190,,Per experiment; unequal lengths; no pooled static/dynamic inference
+07_loop_B,Dynamic,B,Loop,dropped_learning_batches,119,0,0,0,0,0,0,0,0,0,0,0,1190,,Per experiment; unequal lengths; no pooled static/dynamic inference

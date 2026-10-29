@@ -1,0 +1,135 @@
+{
+  "status": "PASS",
+  "samples": 845,
+  "limit_ms": 3.2,
+  "outside_count": 2,
+  "outside_samples": [
+    {
+      "group": "03_arc_A",
+      "frame": 1450,
+      "callback_ms": 4.048
+    },
+    {
+      "group": "03_arc_A",
+      "frame": 1500,
+      "callback_ms": 9.304
+    }
+  ],
+  "maximum": {
+    "group": "03_arc_A",
+    "frame": 1500,
+    "ms": 9.304
+  },
+  "ecdf_at_limit": {
+    "01_static": 1.0,
+    "02_static_A": 1.0,
+    "05_static_B": 1.0,
+    "03_arc_A": 0.9887005649717514,
+    "04_loop_A": 1.0,
+    "06_arc_B": 1.0,
+    "07_loop_B": 1.0
+  },
+  "statistics_match_original_csv": true,
+  "earlier_group_meeting_files_unchanged": 39,
+  "original_baseline_unchanged": 89,
+  "visual_data_checks": [
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "01_static",
+      "metric": "callback_ms",
+      "n": 64,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "02_static_A",
+      "metric": "callback_ms",
+      "n": 63,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "05_static_B",
+      "metric": "callback_ms",
+      "n": 71,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "03_arc_A",
+      "metric": "callback_ms",
+      "n": 177,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "04_loop_A",
+      "metric": "callback_ms",
+      "n": 174,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "06_arc_B",
+      "metric": "callback_ms",
+      "n": 177,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "07_loop_B",
+      "metric": "callback_ms",
+      "n": 119,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "01_static",
+      "metric": "callback_ms",
+      "n": 64,
+      "representation": "all samples; full-n ECDF; axes zoom only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "02_static_A",
+      "metric": "callback_ms",
+      "n": 63,
+      "representation": "all samples; full-n ECDF; axes zoom only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "05_static_B",
+      "metric": "callback_ms",
+      "n": 71,
+      "representation": "all samples; full-n ECDF; axes zoom only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "03_arc_A",
+      "metric": "callback_ms",
+      "n": 177,
+      "representation": "all samples; full-n ECDF; axes zoom only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "04_loop_A",
+      "metric": "callback_ms",
+      "n": 174,
+      "representation": "all samples; full-n ECDF; axes zoom only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "06_arc_B",
+      "metric": "callback_ms",
+      "n": 177,
+      "representation": "all samples; full-n ECDF; axes zoom only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "07_loop_B",
+      "metric": "callback_ms",
+      "n": 119,
+      "representation": "all samples; full-n ECDF; axes zoom only"
+    }
+  ]
+}

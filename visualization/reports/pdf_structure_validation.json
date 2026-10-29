@@ -1,0 +1,37 @@
+[
+  {
+    "figure": "01_online_mask_convergence",
+    "pages": 1,
+    "embedded_raster_images": 0,
+    "text_characters": 1045,
+    "status": "PASS"
+  },
+  {
+    "figure": "02_mask_hit_ratio_comparison",
+    "pages": 1,
+    "embedded_raster_images": 0,
+    "text_characters": 704,
+    "status": "PASS"
+  },
+  {
+    "figure": "03_runtime_latency_distribution",
+    "pages": 1,
+    "embedded_raster_images": 0,
+    "text_characters": 816,
+    "status": "PASS"
+  },
+  {
+    "figure": "04_static_vs_dynamic_learning",
+    "pages": 1,
+    "embedded_raster_images": 0,
+    "text_characters": 765,
+    "status": "PASS"
+  },
+  {
+    "figure": "05_orientation_diversity_vs_mask_activation",
+    "pages": 1,
+    "embedded_raster_images": 0,
+    "text_characters": 850,
+    "status": "PASS"
+  }
+]

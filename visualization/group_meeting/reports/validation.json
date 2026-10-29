@@ -1,0 +1,712 @@
+{
+  "status": "PASS",
+  "records": 845,
+  "field_values": 7605,
+  "group_n": {
+    "01_static": 64,
+    "02_static_A": 63,
+    "03_arc_A": 177,
+    "04_loop_A": 174,
+    "05_static_B": 71,
+    "06_arc_B": 177,
+    "07_loop_B": 119
+  },
+  "original_files_unchanged": 89,
+  "original_csv_byte_matches": {
+    "parsed_records": "18f138f58617c28a59896baff4746f7f76e624872b61920d873fb8249630bc35",
+    "mask_hit_ratio_summary": "6e5ae05c09dc3320daaa1b2dac99cf8dc949c8a078f093dfa4cf1653cbc13684",
+    "callback_latency_summary": "6398def2c20aa4e102a4be45c668103f2534ae757daf576c1ce4eef62ded1c4c",
+    "static_dynamic_summary": "425f6dd2bbe9dd79c2c92b153b70a36aca54bc33875439f631d45fa078582f12",
+    "mask_activation_summary": "e7e9331f3d2039a2f8ffe43b0a4c53ec3f7a4ae50fade1165121eadc458eb820",
+    "orientation_association": "0072fca57ac6330b78df1fc1ac32e57482e4b96d2a55ee2dbded4ed4ff7e1d58"
+  },
+  "size_px": [
+    4800,
+    2700
+  ],
+  "dpi": 300,
+  "stems": [
+    "01_online_mask_state_evolution",
+    "02_mask_hit_ratio_comparison",
+    "03_runtime_latency_distribution",
+    "04_static_vs_dynamic_learning",
+    "04b_learning_progress_and_queue",
+    "05_orientation_diversity_vs_mask_activation"
+  ],
+  "colors": {
+    "01_static": "#4D4D4D",
+    "02_static_A": "#0072B2",
+    "03_arc_A": "#009E73",
+    "04_loop_A": "#D55E00",
+    "05_static_B": "#CC79A7",
+    "06_arc_B": "#56B4E9",
+    "07_loop_B": "#E69F00"
+  },
+  "markers": {
+    "01_static": "o",
+    "02_static_A": "s",
+    "03_arc_A": "^",
+    "04_loop_A": "D",
+    "05_static_B": "v",
+    "06_arc_B": "P",
+    "07_loop_B": "X"
+  },
+  "latency_zoom_ms": [
+    0,
+    3.2
+  ],
+  "samples_outside_zoom": 2,
+  "visual_data_checks": [
+    {
+      "figure": "01_online_mask_state_evolution",
+      "group": "01_static",
+      "metric": "mask_voxels",
+      "n": 64,
+      "representation": "all zero vertices; no repeated markers"
+    },
+    {
+      "figure": "01_online_mask_state_evolution",
+      "group": "01_static",
+      "metric": "candidate_voxels",
+      "n": 64,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "01_online_mask_state_evolution",
+      "group": "02_static_A",
+      "metric": "mask_voxels",
+      "n": 63,
+      "representation": "all zero vertices; no repeated markers"
+    },
+    {
+      "figure": "01_online_mask_state_evolution",
+      "group": "02_static_A",
+      "metric": "candidate_voxels",
+      "n": 63,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "01_online_mask_state_evolution",
+      "group": "05_static_B",
+      "metric": "mask_voxels",
+      "n": 71,
+      "representation": "all zero vertices; no repeated markers"
+    },
+    {
+      "figure": "01_online_mask_state_evolution",
+      "group": "05_static_B",
+      "metric": "candidate_voxels",
+      "n": 71,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "01_online_mask_state_evolution",
+      "group": "03_arc_A",
+      "metric": "mask_voxels",
+      "n": 177,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "01_online_mask_state_evolution",
+      "group": "03_arc_A",
+      "metric": "candidate_voxels",
+      "n": 177,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "01_online_mask_state_evolution",
+      "group": "04_loop_A",
+      "metric": "mask_voxels",
+      "n": 174,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "01_online_mask_state_evolution",
+      "group": "04_loop_A",
+      "metric": "candidate_voxels",
+      "n": 174,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "01_online_mask_state_evolution",
+      "group": "06_arc_B",
+      "metric": "mask_voxels",
+      "n": 177,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "01_online_mask_state_evolution",
+      "group": "06_arc_B",
+      "metric": "candidate_voxels",
+      "n": 177,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "01_online_mask_state_evolution",
+      "group": "07_loop_B",
+      "metric": "mask_voxels",
+      "n": 119,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "01_online_mask_state_evolution",
+      "group": "07_loop_B",
+      "metric": "candidate_voxels",
+      "n": 119,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "group": "01_static",
+      "metric": "mask_hit_ratio",
+      "n": 64,
+      "representation": "exact all-zero label with n; no repeated points"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "group": "02_static_A",
+      "metric": "mask_hit_ratio",
+      "n": 63,
+      "representation": "exact all-zero label with n; no repeated points"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "group": "05_static_B",
+      "metric": "mask_hit_ratio",
+      "n": 71,
+      "representation": "exact all-zero label with n; no repeated points"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "group": "03_arc_A",
+      "metric": "mask_hit_ratio",
+      "n": 177,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "group": "04_loop_A",
+      "metric": "mask_hit_ratio",
+      "n": 174,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "group": "06_arc_B",
+      "metric": "mask_hit_ratio",
+      "n": 177,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "group": "07_loop_B",
+      "metric": "mask_hit_ratio",
+      "n": 119,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "group": "01_static",
+      "metric": "mask_hit_ratio",
+      "n": 64,
+      "representation": "all zero vertices; no repeated markers"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "group": "02_static_A",
+      "metric": "mask_hit_ratio",
+      "n": 63,
+      "representation": "all zero vertices; no repeated markers"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "group": "05_static_B",
+      "metric": "mask_hit_ratio",
+      "n": 71,
+      "representation": "all zero vertices; no repeated markers"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "group": "03_arc_A",
+      "metric": "mask_hit_ratio",
+      "n": 177,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "group": "04_loop_A",
+      "metric": "mask_hit_ratio",
+      "n": 174,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "group": "06_arc_B",
+      "metric": "mask_hit_ratio",
+      "n": 177,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "02_mask_hit_ratio_comparison",
+      "group": "07_loop_B",
+      "metric": "mask_hit_ratio",
+      "n": 119,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "01_static",
+      "metric": "callback_ms",
+      "n": 64,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "02_static_A",
+      "metric": "callback_ms",
+      "n": 63,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "05_static_B",
+      "metric": "callback_ms",
+      "n": 71,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "03_arc_A",
+      "metric": "callback_ms",
+      "n": 177,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "04_loop_A",
+      "metric": "callback_ms",
+      "n": 174,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "06_arc_B",
+      "metric": "callback_ms",
+      "n": 177,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "07_loop_B",
+      "metric": "callback_ms",
+      "n": 119,
+      "representation": "all samples; category-axis jitter only"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "01_static",
+      "metric": "callback_ms",
+      "n": 64,
+      "representation": "ECDF full-n denominator; display zoom 0-3.2 ms"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "02_static_A",
+      "metric": "callback_ms",
+      "n": 63,
+      "representation": "ECDF full-n denominator; display zoom 0-3.2 ms"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "05_static_B",
+      "metric": "callback_ms",
+      "n": 71,
+      "representation": "ECDF full-n denominator; display zoom 0-3.2 ms"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "03_arc_A",
+      "metric": "callback_ms",
+      "n": 177,
+      "representation": "ECDF full-n denominator; display zoom 0-3.2 ms"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "04_loop_A",
+      "metric": "callback_ms",
+      "n": 174,
+      "representation": "ECDF full-n denominator; display zoom 0-3.2 ms"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "06_arc_B",
+      "metric": "callback_ms",
+      "n": 177,
+      "representation": "ECDF full-n denominator; display zoom 0-3.2 ms"
+    },
+    {
+      "figure": "03_runtime_latency_distribution",
+      "group": "07_loop_B",
+      "metric": "callback_ms",
+      "n": 119,
+      "representation": "ECDF full-n denominator; display zoom 0-3.2 ms"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "group": "01_static",
+      "metric": "mask_voxels",
+      "n": 64,
+      "representation": "all zero vertices; no repeated markers"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "group": "02_static_A",
+      "metric": "mask_voxels",
+      "n": 63,
+      "representation": "all zero vertices; no repeated markers"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "group": "05_static_B",
+      "metric": "mask_voxels",
+      "n": 71,
+      "representation": "all zero vertices; no repeated markers"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "group": "03_arc_A",
+      "metric": "mask_voxels",
+      "n": 177,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "group": "04_loop_A",
+      "metric": "mask_voxels",
+      "n": 174,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "group": "06_arc_B",
+      "metric": "mask_voxels",
+      "n": 177,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "group": "07_loop_B",
+      "metric": "mask_voxels",
+      "n": 119,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "group": "01_static",
+      "metric": "candidate_voxels",
+      "n": 64,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "group": "02_static_A",
+      "metric": "candidate_voxels",
+      "n": 63,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "group": "05_static_B",
+      "metric": "candidate_voxels",
+      "n": 71,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "group": "03_arc_A",
+      "metric": "candidate_voxels",
+      "n": 177,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "group": "04_loop_A",
+      "metric": "candidate_voxels",
+      "n": 174,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "group": "06_arc_B",
+      "metric": "candidate_voxels",
+      "n": 177,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04_static_vs_dynamic_learning",
+      "group": "07_loop_B",
+      "metric": "candidate_voxels",
+      "n": 119,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "01_static",
+      "metric": "learning_frames",
+      "n": 64,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "02_static_A",
+      "metric": "learning_frames",
+      "n": 63,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "05_static_B",
+      "metric": "learning_frames",
+      "n": 71,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "03_arc_A",
+      "metric": "learning_frames",
+      "n": 177,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "04_loop_A",
+      "metric": "learning_frames",
+      "n": 174,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "06_arc_B",
+      "metric": "learning_frames",
+      "n": 177,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "07_loop_B",
+      "metric": "learning_frames",
+      "n": 119,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "01_static",
+      "metric": "orientation_bins",
+      "n": 64,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "02_static_A",
+      "metric": "orientation_bins",
+      "n": 63,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "05_static_B",
+      "metric": "orientation_bins",
+      "n": 71,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "03_arc_A",
+      "metric": "orientation_bins",
+      "n": 177,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "04_loop_A",
+      "metric": "orientation_bins",
+      "n": 174,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "06_arc_B",
+      "metric": "orientation_bins",
+      "n": 177,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "07_loop_B",
+      "metric": "orientation_bins",
+      "n": 119,
+      "representation": "all vertices; sparse markers"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "01_static",
+      "metric": "dropped_learning_batches",
+      "n": 64,
+      "representation": "exact constant-zero label; all runs"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "02_static_A",
+      "metric": "dropped_learning_batches",
+      "n": 63,
+      "representation": "exact constant-zero label; all runs"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "05_static_B",
+      "metric": "dropped_learning_batches",
+      "n": 71,
+      "representation": "exact constant-zero label; all runs"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "03_arc_A",
+      "metric": "dropped_learning_batches",
+      "n": 177,
+      "representation": "exact constant-zero label; all runs"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "04_loop_A",
+      "metric": "dropped_learning_batches",
+      "n": 174,
+      "representation": "exact constant-zero label; all runs"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "06_arc_B",
+      "metric": "dropped_learning_batches",
+      "n": 177,
+      "representation": "exact constant-zero label; all runs"
+    },
+    {
+      "figure": "04b_learning_progress_and_queue",
+      "group": "07_loop_B",
+      "metric": "dropped_learning_batches",
+      "n": 119,
+      "representation": "exact constant-zero label; all runs"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "01_static",
+      "metric": "mask_voxels",
+      "n": 64,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "02_static_A",
+      "metric": "mask_voxels",
+      "n": 63,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "03_arc_A",
+      "metric": "mask_voxels",
+      "n": 177,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "04_loop_A",
+      "metric": "mask_voxels",
+      "n": 174,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "01_static",
+      "metric": "candidate_voxels",
+      "n": 64,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "02_static_A",
+      "metric": "candidate_voxels",
+      "n": 63,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "03_arc_A",
+      "metric": "candidate_voxels",
+      "n": 177,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "04_loop_A",
+      "metric": "candidate_voxels",
+      "n": 174,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "01_static",
+      "metric": "mask_voxels",
+      "n": 64,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "05_static_B",
+      "metric": "mask_voxels",
+      "n": 71,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "06_arc_B",
+      "metric": "mask_voxels",
+      "n": 177,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "07_loop_B",
+      "metric": "mask_voxels",
+      "n": 119,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "01_static",
+      "metric": "candidate_voxels",
+      "n": 64,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "05_static_B",
+      "metric": "candidate_voxels",
+      "n": 71,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "06_arc_B",
+      "metric": "candidate_voxels",
+      "n": 177,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    },
+    {
+      "figure": "05_orientation_diversity_vs_mask_activation",
+      "group": "07_loop_B",
+      "metric": "candidate_voxels",
+      "n": 119,
+      "representation": "every point at original x/y; including bin=60; no jitter"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+group,n_records,n_undefined,n_valid,mean,std,minimum,p25,p50,p75,p95,p99,maximum,pooled_logged_points_ratio,n_positive,scope
+01_static,64,0,64,0,0,0,0,0,0,0,0,0,0,0,"candidate_hits / raw over logged samples; not Precision, Recall, Accuracy or F1."
+02_static_A,63,0,63,0,0,0,0,0,0,0,0,0,0,0,"candidate_hits / raw over logged samples; not Precision, Recall, Accuracy or F1."
+03_arc_A,177,0,177,0.0164122568116,0.0056544062682,0,0.0157251602564,0.0171949760766,0.0199819711538,0.0217014687615,0.0221959057938,0.022278708134,0.0164178918909,161,"candidate_hits / raw over logged samples; not Precision, Recall, Accuracy or F1."
+04_loop_A,174,0,174,0.0170589521522,0.00532236888261,0,0.0162675352334,0.0178034855769,0.0201196915064,0.0220793460925,0.0224884815705,0.0230869391026,0.0170599240606,161,"candidate_hits / raw over logged samples; not Precision, Recall, Accuracy or F1."
+05_static_B,71,0,71,0,0,0,0,0,0,0,0,0,0,0,"candidate_hits / raw over logged samples; not Precision, Recall, Accuracy or F1."
+06_arc_B,177,0,177,0.0318320044733,0.010296088564,0,0.0326455342903,0.0341905901116,0.0367324561404,0.0385964912281,0.0392895043553,0.0394238437002,0.0318337874844,161,"candidate_hits / raw over logged samples; not Precision, Recall, Accuracy or F1."
+07_loop_B,119,0,119,0.0348958711986,0.0069225264604,0,0.0339793669872,0.035735645933,0.0377697617624,0.0401807485278,0.0413442982456,0.0416666666667,0.0348985432716,115,"candidate_hits / raw over logged samples; not Precision, Recall, Accuracy or F1."
