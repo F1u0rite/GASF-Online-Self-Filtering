@@ -1,0 +1,51 @@
+{
+  "status": "PASS",
+  "protected_files": 142,
+  "records": 845,
+  "statistics_byte_identical": true,
+  "font": "Microsoft YaHei",
+  "figures": [
+    {
+      "file": "figures\\01_online_mask_state_evolution_zh.png",
+      "geometry_data_unchanged": true,
+      "fingerprint": "a35c91e387b0dfb9001484a25520b5cfb02d1d9c50e03ad79e7a68e10dc28f93",
+      "text_items": 137
+    },
+    {
+      "file": "figures\\02_mask_hit_ratio_comparison_zh.png",
+      "geometry_data_unchanged": true,
+      "fingerprint": "a15b527abe57db763a16d303cddd69ca9fd68d622a92676a025875d132c53857",
+      "text_items": 86
+    },
+    {
+      "file": "figures\\03_runtime_latency_distribution_zh.png",
+      "geometry_data_unchanged": true,
+      "fingerprint": "871d4ded199588383b44872e3ca0fdb5d5d048ecf65202e2901560a5b5984eb3",
+      "text_items": 68
+    },
+    {
+      "file": "figures\\04_static_vs_dynamic_learning_zh.png",
+      "geometry_data_unchanged": true,
+      "fingerprint": "86012a255ee34879fdab0c9071dd3f7b6768c3b33a1e221fac88098d6374c463",
+      "text_items": 84
+    },
+    {
+      "file": "figures\\04b_learning_progress_and_queue_zh.png",
+      "geometry_data_unchanged": true,
+      "fingerprint": "c76eaf8aaf9a1d36ba0ed963269fc476a59e538b963298957896adc92f8c3b76",
+      "text_items": 86
+    },
+    {
+      "file": "figures\\05_orientation_diversity_vs_mask_activation_zh.png",
+      "geometry_data_unchanged": true,
+      "fingerprint": "21d1504a84690d78eb35c49e2294342c740db671a6346524a125620a4b6c5a15",
+      "text_items": 87
+    },
+    {
+      "file": "figures\\latency_focus\\03_runtime_latency_distribution_zh.png",
+      "geometry_data_unchanged": true,
+      "fingerprint": "4c305b7e2cd793035c3b93dc4af396f84f97f3704965b8830136ef67b8cc0359",
+      "text_items": 64
+    }
+  ]
+}
